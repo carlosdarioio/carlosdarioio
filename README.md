@@ -36,7 +36,7 @@ func main() {
 <h1 align="center"> ʟᴀɴɢᴜᴀɢᴇꜱ</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,vue,asp.net,react,php,linux,mysql,git,github&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,js,css,vue,react,php,mysql,git,github&theme=dark&perline=5" />
     </br>
     <img src="https://skillicons.dev/icons?i=vscode,discord,bots,md&theme=dark&perline=5" />
     </br>
