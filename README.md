@@ -40,7 +40,7 @@ func main() {
     </br>
     <img src="https://skillicons.dev/icons?i=php,mysql,git,github,vscode&perline=5" />    
 	</br>
-    <img src="https://skillicons.dev/icons?i=php,flutter,dart,c#&perline=5" />    
+    <img src="https://skillicons.dev/icons?i=flutter,dart,c#,jquery,laravel&perline=5" />    
   </a>
 </p>
 
