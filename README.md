@@ -1,16 +1,28 @@
-### Hi there 👋
+```go
+package main
 
-<!--
-**carlosdarioio/carlosdarioio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+import (
+    Kian "https://github.com/carlosdarioio/"
+)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func main() {
+    var Me *Kian.About = &Kian.About{
+        Name  : "Carlos Dario Flores",           
+        Age        : 31,
+        Job        : "Full time developer work at Copemsa",
+		Job2        : "Part-time Programmer Analyst job at GRT",
+        Interested : []string{
+            "Start PhD",
+            "Web, mobile or backend projects",            
+            "Teach and learn",
+        },
+        Hobbies    : []string{
+            "Study",
+			"WeRunHN",
+			"To meditate",
+			"Pokemon",
+			"RPG"
+        },
+    }
+}
+```
