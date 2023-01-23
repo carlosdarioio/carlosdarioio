@@ -36,9 +36,9 @@ func main() {
 <h1 align="center"> ʟᴀɴɢᴜᴀɢᴇꜱ</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,vue,react,php,mysql,git,github&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,js,css,vue,react&perline=5" />
     </br>
-    <img src="https://skillicons.dev/icons?i=vscode,discord,bots,md&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,git,github,vscode&perline=5" />
     </br>
     <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg" height=50>
   </a>
