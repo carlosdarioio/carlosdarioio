@@ -11,6 +11,7 @@ func main() {
         Age        : 31,
         Job        : "Full time developer work at Copemsa",
 	Job2       : "Part-time Programmer Analyst job at GRT",
+	Working	   : 10 Years
         Interested : []string{
             "Start PhD",
             "Web, mobile or backend projects",            
@@ -23,11 +24,12 @@ func main() {
     	    "Pokemon",
 	    "RPG"
         },
-	otherGithubProfiles    : []string{
+	OtherGithubProfiles    : []string{
             "caFLORESGM",
 	    "dfloresGRT",	    
 	    
         },
+	Message	:Valeria Guadalupe Carcamo I love you
     }
 }
 ```
