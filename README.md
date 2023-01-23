@@ -39,6 +39,8 @@ func main() {
     <img src="https://skillicons.dev/icons?i=html,js,css,vue,react&perline=5" />
     </br>
     <img src="https://skillicons.dev/icons?i=php,mysql,git,github,vscode&perline=5" />    
+	</br>
+    <img src="https://skillicons.dev/icons?i=php,flutter,dart,c#&perline=5" />    
   </a>
 </p>
 
