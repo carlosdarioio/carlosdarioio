@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-    var Me *carlosdarioio = &About.Me{
+    var Me = io.About{
         Name 	   : "Carlos Dario Flores",           
         Age        : 31,
         Job        : "Full time developer work at Copemsa",
