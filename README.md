@@ -10,7 +10,7 @@ func main() {
         Name 	   : "Carlos Dario Flores",           
         Age        : 31,
         Job        : "Full time developer work at Copemsa",
-	Job2       : "Part-time Programmer Analyst job at GRT",
+	SecondJob  : "Part-time Programmer Analyst work at GRT",
 	Working	   : 10 Years
         Interested : []string{
             "Start PhD",
