@@ -37,8 +37,8 @@ function main() {
             "caFLORESGM",
 	    "dfloresGRT",	    
 	    
-        },
-	Message	:Valeria Carcamo Rodriguez, SPS, HN, ¿How can i know about you?
+        }
+
     }
 }
 ```
