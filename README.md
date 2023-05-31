@@ -1,10 +1,7 @@
 ## Hola me llamo Carlos Dario Flores.
 
 
-  <a href="https://github.com/carlosdarioio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdarioio&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdarioio&layout=compact&langs_count=8&theme=midnight-purple" />
-</a>
+
   
 ```go
 package main
