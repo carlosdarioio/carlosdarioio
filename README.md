@@ -1,41 +1,33 @@
 ## Hola me llamo Carlos Dario Flores.
 
-
-
-  
 ```go
-package main
-
-import (
-    io "https://github.com/carlosdarioio/"
-)
 
 function main() {
-    var Me = io.About{
+    const About = {[
         Name 	   : "Carlos Dario Flores",           
         Age        : 31,
         Job        : "Full time developer work at Copemsa",
-	SecondJob  : "Part-time Programmer Analyst work at GRT",
-	Working	   : 10 Years
+	SecondJob  : "Part-time developer work at GRT",
+	Working	   : 6 Years
         Interested : []string{
             "Start PhD",
             "Web, mobile or backend projects",            
             "Teach and learn",
         },
-        Hobbies    : []string{
+        Hobbies    : [
             "Study",
 	    "WeRunHN",
 	    "To meditate",
     	    "Pokemon",
 	    "RPG"
-        },
-	OtherGithubProfiles    : []string{
+        ],
+	OtherGithubProfiles    : [
             "caFLORESGM",
 	    "dfloresGRT",	    
 	    
-        }
+        ]
 
-    }
+    ]}
 }
 ```
 <h1 align="center"> ʟᴀɴɢᴜᴀɢᴇꜱ</h1>
