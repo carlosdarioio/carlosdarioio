@@ -1,5 +1,5 @@
 ## Hola me llamo Carlos Dario Flores.
-
+- - Con Maestria en Ingeniería de Software y Sistemas de la Información .
 ```go
 
 function main() {
@@ -7,7 +7,7 @@ function main() {
         Name 	   : "Carlos Dario Flores",           
         Age        : 31,
         Job        : "Full time developer work at Copemsa",
-	SecondJob  : "Part-time developer work at GRT",
+	SecondJob  : "Part-time developer work at GR Tecnología",
 	Working	   : 6 Years
         Interested : []string{
             "Start PhD",
