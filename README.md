@@ -1,5 +1,4 @@
 ## Hola me llamo Carlos Dario Flores.
-- Con Maestria en Ingeniería de Software y Sistemas de la Información .
 ```go
 
 function main() {
