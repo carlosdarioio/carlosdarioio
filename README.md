@@ -5,8 +5,7 @@ function main() {
     const About = {[
         Name 	   : "Carlos Dario Flores",           
         Age        : 31,
-        Job        : "Full time developer work at Copemsa",
-	SecondJob  : "Part-time developer work at GR Tecnología",
+        Job        : "Programmer work at Copemsa",
 	Working	   : 6 Years
         Interested : []string{
             "Start PhD",
