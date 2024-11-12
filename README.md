@@ -1,4 +1,4 @@
-## De un Sueño a la realidad La Cosa es seguir avanzando una vez termines el sistema de X empresa, quedarte solo te comera el tiempo.
+## Hi mi nombre es Carlos Dario Flores.
 ```go
 
 function main() {
