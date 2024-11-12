@@ -1,12 +1,12 @@
-## Hola me llamo Carlos Dario Flores.
+## De un Sueño a la realidad La Cosa es seguir avanzando una vez termines el sistema de X empresa, quedarte solo te comera el tiempo.
 ```go
 
 function main() {
     const About = {[
         Name 	   : "Carlos Dario Flores",           
-        Age        : 31,
+        Age        : 32,
         Job        : "Programmer work at Copemsa",
-	Working	   : 6 Years
+	Working	   : 8 Years
         Interested : []string{
             "Start PhD",
             "Web, mobile or backend projects",            
