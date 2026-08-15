@@ -4,23 +4,23 @@
 function main() {
     const About = {[
         Name 	   : "Carlos Dario Flores",           
-        Age        : 32,
-        Job        : "Programmer work at Copemsa",
-	Working	   : 8 Years
+        Age        : 34,
+        Job        : "Technology Innovation Officer at Arca Technologies",
+	Working	   : 10 Years
         Interested : []string{
             "Start PhD",
             "Web, mobile or backend projects",            
             "Teach and learn",
         },
         Hobbies    : [
-            "Study",
+        "Study",
 	    "WeRunHN",
 	    "To meditate",
-    	    "Pokemon",
+    	"Pokemon",
 	    "RPG"
         ],
 	OtherGithubProfiles    : [
-            "caFLORESGM",
+        "caFLORESGM",
 	    "dfloresGRT",	    
 	    
         ]
